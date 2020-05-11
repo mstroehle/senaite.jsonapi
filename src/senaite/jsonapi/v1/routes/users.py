@@ -1,3 +1,7 @@
+
+# some API Infos
+
+
 # -*- coding: utf-8 -*-
 #
 # This file is part of SENAITE.JSONAPI.
